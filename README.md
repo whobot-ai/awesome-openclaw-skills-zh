@@ -38,61 +38,61 @@
 
 ### 一站式方案
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **openclaw-china** | BytePioneer-AI | 3.4K | 统一插件 — 飞书/钉钉/QQ/企微/微信，流式输出、网关鉴权、实时回复 | [GitHub](https://github.com/BytePioneer-AI/openclaw-china) |
-| **OpenClaw 中文翻译** | 1186258278 | 3.4K | OpenClaw 官方中文翻译 | [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) |
-| **OpenClaw 中文文档** | yeuxuan | 596 | OpenClaw 中文文档站 | [GitHub](https://github.com/yeuxuan/openclaw-docs) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openclaw-china**](https://github.com/BytePioneer-AI/openclaw-china) | 统一插件 — 飞书/钉钉/QQ/企微/微信，流式输出、网关鉴权、实时回复 | ![Stars](https://img.shields.io/github/stars/BytePioneer-AI/openclaw-china?style=flat-square&logo=github) |
+| [**OpenClaw 中文翻译**](https://github.com/1186258278/OpenClawChineseTranslation) | OpenClaw 官方中文翻译 | ![Stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=flat-square&logo=github) |
+| [**OpenClaw 中文文档**](https://github.com/yeuxuan/openclaw-docs) | OpenClaw 中文文档站 | ![Stars](https://img.shields.io/github/stars/yeuxuan/openclaw-docs?style=flat-square&logo=github) |
 
 ### 飞书 / Lark
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **openclaw-lark** | larksuite (官方) | 1.4K | 飞书官方频道插件 — MIT 协议，消息/文档/表格/日历/任务 | [GitHub](https://github.com/larksuite/openclaw-lark) |
-| **clawdbot-feishu** | m1heng | 4.3K | Clawdbot 飞书集成 | [GitHub](https://github.com/m1heng/clawdbot-feishu) |
-| **feishu-openclaw** | AlexAnys | 325 | 飞书机器人 WebSocket 桥接 — 无需公网服务器/域名，5 分钟部署 | [GitHub](https://github.com/AlexAnys/feishu-openclaw) |
-| **openclaw-feishu** | AlexAnys | 614 | 飞书插件 x OpenClaw 配置指南 | [GitHub](https://github.com/AlexAnys/openclaw-feishu) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openclaw-lark**](https://github.com/larksuite/openclaw-lark) | 飞书官方频道插件 — MIT 协议，消息/文档/表格/日历/任务 | ![Stars](https://img.shields.io/github/stars/larksuite/openclaw-lark?style=flat-square&logo=github) |
+| [**clawdbot-feishu**](https://github.com/m1heng/clawdbot-feishu) | Clawdbot 飞书集成 | ![Stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=flat-square&logo=github) |
+| [**feishu-openclaw**](https://github.com/AlexAnys/feishu-openclaw) | 飞书机器人 WebSocket 桥接 — 无需公网服务器/域名，5 分钟部署 | ![Stars](https://img.shields.io/github/stars/AlexAnys/feishu-openclaw?style=flat-square&logo=github) |
+| [**openclaw-feishu**](https://github.com/AlexAnys/openclaw-feishu) | 飞书插件 x OpenClaw 配置指南 | ![Stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=flat-square&logo=github) |
 
 ### 钉钉 / DingTalk
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **dingtalk-openclaw-connector** | DingTalk-Real-AI (官方) | 1.9K | 钉钉官方连接器 — AI Card 流式回复、会话隔离 | [GitHub](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) |
-| **openclaw-channel-dingtalk** | soimy | 1.5K | 钉钉机器人频道插件 | [GitHub](https://github.com/soimy/openclaw-channel-dingtalk) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**dingtalk-openclaw-connector**](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) | 钉钉官方连接器 — AI Card 流式回复、会话隔离 | ![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-openclaw-connector?style=flat-square&logo=github) |
+| [**openclaw-channel-dingtalk**](https://github.com/soimy/openclaw-channel-dingtalk) | 钉钉机器人频道插件 | ![Stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=flat-square&logo=github) |
 
 ### QQ
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **openclaw-qqbot** | tencent-connect (官方) | 1.2K | 腾讯官方 QQ Bot — 私聊/群聊/富媒体/多机器人/语音转写 | [GitHub](https://github.com/tencent-connect/openclaw-qqbot) |
-| **openclaw-qqbot-formal** | tencent-connect (官方) | 251 | QQ Bot 频道插件 (正式版) | [GitHub](https://github.com/tencent-connect/openclaw-qqbot-formal) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openclaw-qqbot**](https://github.com/tencent-connect/openclaw-qqbot) | 腾讯官方 QQ Bot — 私聊/群聊/富媒体/多机器人/语音转写 | ![Stars](https://img.shields.io/github/stars/tencent-connect/openclaw-qqbot?style=flat-square&logo=github) |
+| [**openclaw-qqbot-formal**](https://github.com/tencent-connect/openclaw-qqbot-formal) | QQ Bot 频道插件 (正式版) | ![Stars](https://img.shields.io/github/stars/tencent-connect/openclaw-qqbot-formal?style=flat-square&logo=github) |
 
 ### 微信 / 企业微信
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **openclaw-wechat** | freestylefly | 1.5K | 个人微信接入 OpenClaw | [GitHub](https://github.com/freestylefly/openclaw-wechat) |
-| **wechat-openclaw-channel** | HenryXiaoYang | 610 | 微信频道插件 | [GitHub](https://github.com/HenryXiaoYang/wechat-openclaw-channel) |
-| **WeChat-MCP** | BiboyQG | 122 | 让 OpenClaw/Claude/ChatGPT 读取和回复微信消息 | [GitHub](https://github.com/BiboyQG/WeChat-MCP) |
-| **md2wechat-skill** | geekjourneyx | 669 | Markdown 写微信公众号文章，一键发布 | [GitHub](https://github.com/geekjourneyx/md2wechat-skill) |
-| **openclaw-plugin-wecom** | sunnoy | 612 | 企业微信 AI Bot 插件 | [GitHub](https://github.com/sunnoy/openclaw-plugin-wecom) |
-| **wecom-openclaw-plugin** | WecomTeam (官方) | 199 | 企业微信官方 OpenClaw 插件 | [GitHub](https://github.com/WecomTeam/wecom-openclaw-plugin) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openclaw-wechat**](https://github.com/freestylefly/openclaw-wechat) | 个人微信接入 OpenClaw | ![Stars](https://img.shields.io/github/stars/freestylefly/openclaw-wechat?style=flat-square&logo=github) |
+| [**wechat-openclaw-channel**](https://github.com/HenryXiaoYang/wechat-openclaw-channel) | 微信频道插件 | ![Stars](https://img.shields.io/github/stars/HenryXiaoYang/wechat-openclaw-channel?style=flat-square&logo=github) |
+| [**WeChat-MCP**](https://github.com/BiboyQG/WeChat-MCP) | 让 OpenClaw/Claude/ChatGPT 读取和回复微信消息 | ![Stars](https://img.shields.io/github/stars/BiboyQG/WeChat-MCP?style=flat-square&logo=github) |
+| [**md2wechat-skill**](https://github.com/geekjourneyx/md2wechat-skill) | Markdown 写微信公众号文章，一键发布 | ![Stars](https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat-square&logo=github) |
+| [**openclaw-plugin-wecom**](https://github.com/sunnoy/openclaw-plugin-wecom) | 企业微信 AI Bot 插件 | ![Stars](https://img.shields.io/github/stars/sunnoy/openclaw-plugin-wecom?style=flat-square&logo=github) |
+| [**wecom-openclaw-plugin**](https://github.com/WecomTeam/wecom-openclaw-plugin) | 企业微信官方 OpenClaw 插件 | ![Stars](https://img.shields.io/github/stars/WecomTeam/wecom-openclaw-plugin?style=flat-square&logo=github) |
 
 ### 小红书
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **XiaohongshuSkills** | white0dew | 2.2K | 小红书自动发布技能 | [GitHub](https://github.com/white0dew/XiaohongshuSkills) |
-| **xiaohongshu-ops-skill** | Xiangyu-CAS | 1.1K | 把 OpenClaw 变成小红书运营助手 | [GitHub](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**XiaohongshuSkills**](https://github.com/white0dew/XiaohongshuSkills) | 小红书自动发布技能 | ![Stars](https://img.shields.io/github/stars/white0dew/XiaohongshuSkills?style=flat-square&logo=github) |
+| [**xiaohongshu-ops-skill**](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill) | 把 OpenClaw 变成小红书运营助手 | ![Stars](https://img.shields.io/github/stars/Xiangyu-CAS/xiaohongshu-ops-skill?style=flat-square&logo=github) |
 
 ### 其他中国平台
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **chatgpt-on-wechat** | zhayujie | 42.4K | CowAgent 超级 AI 助手，支持多 IM 平台 (含 OpenClaw) | [GitHub](https://github.com/zhayujie/chatgpt-on-wechat) |
-| **AstrBot** | AstrBotDevs | 26.4K | Agentic IM 聊天机器人基础设施 | [GitHub](https://github.com/AstrBotDevs/AstrBot) |
-| **LangBot** | langbot-app | 15.6K | 生产级多平台 IM 机器人平台 | [GitHub](https://github.com/langbot-app/LangBot) |
-| **OpenClaw-Chat-Gateway** | liandu2024 | 155 | OpenClaw 聊天网关 | [GitHub](https://github.com/liandu2024/OpenClaw-Chat-Gateway) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**chatgpt-on-wechat**](https://github.com/zhayujie/chatgpt-on-wechat) | CowAgent 超级 AI 助手，支持多 IM 平台 (含 OpenClaw) | ![Stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=flat-square&logo=github) |
+| [**AstrBot**](https://github.com/AstrBotDevs/AstrBot) | Agentic IM 聊天机器人基础设施 | ![Stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat-square&logo=github) |
+| [**LangBot**](https://github.com/langbot-app/LangBot) | 生产级多平台 IM 机器人平台 | ![Stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square&logo=github) |
+| [**OpenClaw-Chat-Gateway**](https://github.com/liandu2024/OpenClaw-Chat-Gateway) | OpenClaw 聊天网关 | ![Stars](https://img.shields.io/github/stars/liandu2024/OpenClaw-Chat-Gateway?style=flat-square&logo=github) |
 
 ---
 
@@ -140,13 +140,13 @@
 
 ### 学习资源项目
 
-| 项目 | Stars | 说明 | 链接 |
-|------|-------|------|------|
-| **ai-guide** | 10.0K | AI 资源指南 (含 OpenClaw 教程) | [GitHub](https://github.com/liyupi/ai-guide) |
-| **danghuangshang** | 2.0K | AI 配置教程 (从零到进阶) | [GitHub](https://github.com/wanikua/danghuangshang) |
-| **OpenClawChineseTranslation** | 3.4K | OpenClaw 官方中文翻译 | [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) |
-| **openclaw-docs** | 596 | OpenClaw 中文文档站 | [GitHub](https://github.com/yeuxuan/openclaw-docs) |
-| **awesome-hosting** | 819 | 托管资源列表 (含 OpenClaw) | [GitHub](https://github.com/dalisoft/awesome-hosting) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**ai-guide**](https://github.com/liyupi/ai-guide) | AI 资源指南 (含 OpenClaw 教程) | ![Stars](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square&logo=github) |
+| [**danghuangshang**](https://github.com/wanikua/danghuangshang) | AI 配置教程 (从零到进阶) | ![Stars](https://img.shields.io/github/stars/wanikua/danghuangshang?style=flat-square&logo=github) |
+| [**OpenClawChineseTranslation**](https://github.com/1186258278/OpenClawChineseTranslation) | OpenClaw 官方中文翻译 | ![Stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=flat-square&logo=github) |
+| [**openclaw-docs**](https://github.com/yeuxuan/openclaw-docs) | OpenClaw 中文文档站 | ![Stars](https://img.shields.io/github/stars/yeuxuan/openclaw-docs?style=flat-square&logo=github) |
+| [**awesome-hosting**](https://github.com/dalisoft/awesome-hosting) | 托管资源列表 (含 OpenClaw) | ![Stars](https://img.shields.io/github/stars/dalisoft/awesome-hosting?style=flat-square&logo=github) |
 
 ---
 
@@ -155,19 +155,19 @@
 
 > 以下项目/技能均来自各大科技公司的**官方 GitHub 组织**。
 
-| 名称 | 公司 | Stars | 说明 | 链接 |
-|------|------|-------|------|------|
-| **openclaw-lark** | 飞书/Lark (字节跳动) | 1.4K | 飞书官方频道插件 — 消息、文档、多维表格、日历、任务、互动卡片流式输出、OAuth | [GitHub](https://github.com/larksuite/openclaw-lark) |
-| **openclaw-qqbot** | 腾讯 | 1.2K | QQ Bot 官方插件 — 私聊/群聊/富媒体/多机器人管理/语音转写/图片理解 | [GitHub](https://github.com/tencent-connect/openclaw-qqbot) |
-| **dingtalk-openclaw-connector** | 钉钉 (阿里巴巴) | 1.9K | 钉钉官方连接器 — AI Card 流式回复、会话隔离、自动图片上传、主动消息 | [GitHub](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) |
-| **moltworker** | Cloudflare | 9.7K | 在 Cloudflare Workers 上运行 OpenClaw — 沙箱容器、Web 聊天界面、无头浏览器、AI Gateway | [GitHub](https://github.com/cloudflare/moltworker) |
-| **amplifier-app-openclaw** | Microsoft | - | OpenClaw + Microsoft Amplifier 集成 — 100+ LLM Provider 路由、可组合行为包、JSON-RPC 双向通信 | [GitHub](https://github.com/microsoft/amplifier-app-openclaw) |
-| **stripe/ai (skills/)** | Stripe | - | Stripe 官方 AI 技能 — upgrade-stripe、stripe-best-practices、Agent Toolkit 函数调用 | [GitHub](https://github.com/stripe/ai) |
-| **skills** | Vercel | - | 开放 Agent 技能工具 (`npx skills`) — Vercel 部署/项目管理/域名/环境变量/日志 | [GitHub](https://github.com/vercel-labs/skills) |
-| **PaddleOCR Skills** | 百度 PaddlePaddle | - | 文档解析 + 文字识别技能 — 基于 PaddleOCR-VL-1.5，支持 110+ 语言、结构化 Markdown 输出 | [GitHub](https://github.com/PaddlePaddle/PaddleOCR/tree/main/skills) |
-| **Skywork-Skills** | 昆仑万维 SkyworkAI | 44 | 6 个 AI 办公技能 — PPT/文档/Excel/设计(图片生成)/搜索/Mureka 音乐 | [GitHub](https://github.com/SkyworkAI/Skywork-Skills) |
-| **OpenSandbox / HiClaw** | 阿里巴巴 | - | 通用沙箱平台(含 OpenClaw 集成示例) + 协作多智能体操作系统 | [GitHub](https://github.com/alibaba/OpenSandbox) |
-| **jsapi-skills** | 百度地图 | - | 百度地图 JSAPI 技能 — POI 搜索/路线规划/地理编码/天气查询 | [GitHub](https://github.com/baidu-maps/jsapi-skills) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openclaw-lark**](https://github.com/larksuite/openclaw-lark) | 飞书官方频道插件 — 消息、文档、多维表格、日历、任务、互动卡片流式输出、OAuth | ![Stars](https://img.shields.io/github/stars/larksuite/openclaw-lark?style=flat-square&logo=github) |
+| [**openclaw-qqbot**](https://github.com/tencent-connect/openclaw-qqbot) | QQ Bot 官方插件 — 私聊/群聊/富媒体/多机器人管理/语音转写/图片理解 | ![Stars](https://img.shields.io/github/stars/tencent-connect/openclaw-qqbot?style=flat-square&logo=github) |
+| [**dingtalk-openclaw-connector**](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) | 钉钉官方连接器 — AI Card 流式回复、会话隔离、自动图片上传、主动消息 | ![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-openclaw-connector?style=flat-square&logo=github) |
+| [**moltworker**](https://github.com/cloudflare/moltworker) | 在 Cloudflare Workers 上运行 OpenClaw — 沙箱容器、Web 聊天界面、无头浏览器、AI Gateway | ![Stars](https://img.shields.io/github/stars/cloudflare/moltworker?style=flat-square&logo=github) |
+| [**amplifier-app-openclaw**](https://github.com/microsoft/amplifier-app-openclaw) | OpenClaw + Microsoft Amplifier 集成 — 100+ LLM Provider 路由、可组合行为包、JSON-RPC 双向通信 | ![Stars](https://img.shields.io/github/stars/microsoft/amplifier-app-openclaw?style=flat-square&logo=github) |
+| [**stripe/ai (skills/)**](https://github.com/stripe/ai) | Stripe 官方 AI 技能 — upgrade-stripe、stripe-best-practices、Agent Toolkit 函数调用 | ![Stars](https://img.shields.io/github/stars/stripe/ai?style=flat-square&logo=github) |
+| [**skills**](https://github.com/vercel-labs/skills) | 开放 Agent 技能工具 (`npx skills`) — Vercel 部署/项目管理/域名/环境变量/日志 | ![Stars](https://img.shields.io/github/stars/vercel-labs/skills?style=flat-square&logo=github) |
+| [**PaddleOCR Skills**](https://github.com/PaddlePaddle/PaddleOCR) | 文档解析 + 文字识别技能 — 基于 PaddleOCR-VL-1.5，支持 110+ 语言、结构化 Markdown 输出 | ![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&logo=github) |
+| [**Skywork-Skills**](https://github.com/SkyworkAI/Skywork-Skills) | 6 个 AI 办公技能 — PPT/文档/Excel/设计/搜索/Mureka 音乐 | ![Stars](https://img.shields.io/github/stars/SkyworkAI/Skywork-Skills?style=flat-square&logo=github) |
+| [**OpenSandbox / HiClaw**](https://github.com/alibaba/OpenSandbox) | 通用沙箱平台(含 OpenClaw 集成示例) + 协作多智能体操作系统 | ![Stars](https://img.shields.io/github/stars/alibaba/OpenSandbox?style=flat-square&logo=github) |
+| [**jsapi-skills**](https://github.com/baidu-maps/jsapi-skills) | 百度地图 JSAPI 技能 — POI 搜索/路线规划/地理编码/天气查询 | ![Stars](https://img.shields.io/github/stars/baidu-maps/jsapi-skills?style=flat-square&logo=github) |
 
 ---
 
@@ -176,22 +176,22 @@
 
 > ClawHub 上下载量最高的热门技能，下载量为累计数据。
 
-| 名称 | 作者 | 下载量 | 说明 | 链接 |
-|------|------|--------|------|------|
-| **Summarize** | steipete (Peter Steinberger) | 4.5K | 智能摘要 — 长文/网页/PDF/图片/音频/YouTube 一键总结 | [ClawHub](https://clawhub.ai/steipete/summarize) |
-| **GitHub** | steipete | 3.3K | GitHub 集成 — Issue/PR/CI 管理、高级搜索 | [ClawHub](https://clawhub.ai/steipete/github) |
-| **Agent Browser** | TheSethRose (Seth Rose) | 3.1K | Rust 无头浏览器自动化 — AI 代理页面交互 | [ClawHub](https://clawhub.ai/TheSethRose/agent-browser) |
-| **Gog** | steipete | 2.8K | Google 全家桶 — Gmail/Calendar/Drive/Contacts/Sheets/Docs | [ClawHub](https://clawhub.ai/steipete/gog) |
-| **Obsidian** | steipete | 1.9K | Obsidian 笔记集成 — Markdown 笔记自动化操作 | [ClawHub](https://clawhub.ai/steipete/obsidian) |
-| **Himalaya** | lamelas (Andre Lamelas) | 1.2K | CLI 邮件管理 — IMAP/SMTP 列表/读取/写入/回复/转发/搜索 | [ClawHub](https://clawhub.ai/lamelas/himalaya) |
-| **Apple Notes** | steipete | 1.1K | macOS Apple Notes 管理 — 创建/查看/编辑/删除/搜索/导出 | [ClawHub](https://clawhub.ai/steipete/apple-notes) |
-| **Discord** | steipete | 1.0K | Discord 控制 — 消息/反应/贴纸/投票/线程/置顶 | [ClawHub](https://clawhub.ai/steipete/discord) |
-| **Slack** | steipete | - | Slack 机器人 — 反应/消息管理/置顶/成员信息/Emoji 列表 | [ClawHub](https://clawhub.ai/steipete/slack) |
-| **Capability Evolver** | autogame-17 | 448 | AI 自我进化引擎 — 分析运行历史自动识别和应用改进 | [ClawHub](https://clawhub.ai/autogame-17/capability-evolver) |
-| **Word DOCX** | ivangdavila (Ivan G. Davila) | 290 | Word 文档操作 — 创建/编辑 DOCX，样式/编号/修订/表格 | [ClawHub](https://clawhub.ai/ivangdavila/word-docx) |
-| **Todoist** | mjrussell (Matt Russell) | 173 | Todoist 任务管理 — 待办/提醒/项目/生产力 | [ClawHub](https://clawhub.ai/mjrussell/todoist) |
-| **PowerPoint PPTX** | ivangdavila | 163 | PPT 演示文稿操作 — 创建/编辑 PPTX，布局/模板/图表/视觉 QA | [ClawHub](https://clawhub.ai/ivangdavila/powerpoint-pptx) |
-| **Self-Improving Agent** | pskoett (Peter Skoett) | - | 自我改进代理 — 将学习和错误记录到 Markdown 以持续优化 | [ClawHub](https://clawhub.ai/pskoett/self-improving-agent) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**Summarize**](https://clawhub.ai/steipete/summarize) | 智能摘要 — 长文/网页/PDF/图片/音频/YouTube 一键总结 | ![Downloads](https://img.shields.io/badge/downloads-4.5K-blue?style=flat-square) |
+| [**GitHub**](https://clawhub.ai/steipete/github) | GitHub 集成 — Issue/PR/CI 管理、高级搜索 | ![Downloads](https://img.shields.io/badge/downloads-3.3K-blue?style=flat-square) |
+| [**Agent Browser**](https://clawhub.ai/TheSethRose/agent-browser) | Rust 无头浏览器自动化 — AI 代理页面交互 | ![Downloads](https://img.shields.io/badge/downloads-3.1K-blue?style=flat-square) |
+| [**Gog**](https://clawhub.ai/steipete/gog) | Google 全家桶 — Gmail/Calendar/Drive/Contacts/Sheets/Docs | ![Downloads](https://img.shields.io/badge/downloads-2.8K-blue?style=flat-square) |
+| [**Obsidian**](https://clawhub.ai/steipete/obsidian) | Obsidian 笔记集成 — Markdown 笔记自动化操作 | ![Downloads](https://img.shields.io/badge/downloads-1.9K-blue?style=flat-square) |
+| [**Himalaya**](https://clawhub.ai/lamelas/himalaya) | CLI 邮件管理 — IMAP/SMTP 列表/读取/写入/回复/转发/搜索 | ![Downloads](https://img.shields.io/badge/downloads-1.2K-blue?style=flat-square) |
+| [**Apple Notes**](https://clawhub.ai/steipete/apple-notes) | macOS Apple Notes 管理 — 创建/查看/编辑/删除/搜索/导出 | ![Downloads](https://img.shields.io/badge/downloads-1.1K-blue?style=flat-square) |
+| [**Discord**](https://clawhub.ai/steipete/discord) | Discord 控制 — 消息/反应/贴纸/投票/线程/置顶 | ![Downloads](https://img.shields.io/badge/downloads-1.0K-blue?style=flat-square) |
+| [**Slack**](https://clawhub.ai/steipete/slack) | Slack 机器人 — 反应/消息管理/置顶/成员信息/Emoji 列表 | - |
+| [**Capability Evolver**](https://clawhub.ai/autogame-17/capability-evolver) | AI 自我进化引擎 — 分析运行历史自动识别和应用改进 | ![Downloads](https://img.shields.io/badge/downloads-448-blue?style=flat-square) |
+| [**Word DOCX**](https://clawhub.ai/ivangdavila/word-docx) | Word 文档操作 — 创建/编辑 DOCX，样式/编号/修订/表格 | ![Downloads](https://img.shields.io/badge/downloads-290-blue?style=flat-square) |
+| [**Todoist**](https://clawhub.ai/mjrussell/todoist) | Todoist 任务管理 — 待办/提醒/项目/生产力 | ![Downloads](https://img.shields.io/badge/downloads-173-blue?style=flat-square) |
+| [**PowerPoint PPTX**](https://clawhub.ai/ivangdavila/powerpoint-pptx) | PPT 演示文稿操作 — 创建/编辑 PPTX，布局/模板/图表/视觉 QA | ![Downloads](https://img.shields.io/badge/downloads-163-blue?style=flat-square) |
+| [**Self-Improving Agent**](https://clawhub.ai/pskoett/self-improving-agent) | 自我改进代理 — 将学习和错误记录到 Markdown 以持续优化 | - |
 
 ---
 
@@ -200,141 +200,141 @@
 
 ### Discord
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **discord (ClawHub)** | steipete | 1.0K 下载 | Discord 机器人控制 — 消息/反应/上传/投票/线程 | [ClawHub](https://clawhub.ai/steipete/discord) |
-| **discord-mcp** | SaseQ | 218 | Discord MCP 服务器集成 | [GitHub](https://github.com/SaseQ/discord-mcp) |
-| **kimaki** | remorses | 679 | 类 OpenClaw 方案，深度 Discord 集成 | [GitHub](https://github.com/remorses/kimaki) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**discord (ClawHub)**](https://clawhub.ai/steipete/discord) | Discord 机器人控制 — 消息/反应/上传/投票/线程 | ![Downloads](https://img.shields.io/badge/downloads-1.0K-blue?style=flat-square) |
+| [**discord-mcp**](https://github.com/SaseQ/discord-mcp) | Discord MCP 服务器集成 | ![Stars](https://img.shields.io/github/stars/SaseQ/discord-mcp?style=flat-square&logo=github) |
+| [**kimaki**](https://github.com/remorses/kimaki) | 类 OpenClaw 方案，深度 Discord 集成 | ![Stars](https://img.shields.io/github/stars/remorses/kimaki?style=flat-square&logo=github) |
 
 ### Slack
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **slack (ClawHub)** | steipete | - | Slack 控制 — 反应/发送/编辑/删除/置顶/成员信息 | [ClawHub](https://clawhub.ai/steipete/slack) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**slack (ClawHub)**](https://clawhub.ai/steipete/slack) | Slack 控制 — 反应/发送/编辑/删除/置顶/成员信息 | - |
 
 ### Twitter/X
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **x-research-skill** | rohunvora | 985 | X/Twitter 研究技能 | [GitHub](https://github.com/rohunvora/x-research-skill) |
-| **x-tweet-fetcher** | ythx-101 | 707 | 无需登录抓取推文 | [GitHub](https://github.com/ythx-101/x-tweet-fetcher) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**x-research-skill**](https://github.com/rohunvora/x-research-skill) | X/Twitter 研究技能 | ![Stars](https://img.shields.io/github/stars/rohunvora/x-research-skill?style=flat-square&logo=github) |
+| [**x-tweet-fetcher**](https://github.com/ythx-101/x-tweet-fetcher) | 无需登录抓取推文 | ![Stars](https://img.shields.io/github/stars/ythx-101/x-tweet-fetcher?style=flat-square&logo=github) |
 
 ### 邮件
 
-| 名称 | 作者/组织 | Stars/下载 | 说明 | 链接 |
-|------|-----------|------------|------|------|
-| **himalaya (ClawHub)** | lamelas | 1.2K 下载 | CLI 邮件管理 — IMAP/SMTP 全功能 | [ClawHub](https://clawhub.ai/lamelas/himalaya) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**himalaya (ClawHub)**](https://clawhub.ai/lamelas/himalaya) | CLI 邮件管理 — IMAP/SMTP 全功能 | ![Downloads](https://img.shields.io/badge/downloads-1.2K-blue?style=flat-square) |
 
 ### 其他通讯
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **Canopy** | kwalus | 251 | 本地优先的 Slack/Discord 替代品，面向 Agent 时代 | [GitHub](https://github.com/kwalus/Canopy) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**Canopy**](https://github.com/kwalus/Canopy) | 本地优先的 Slack/Discord 替代品，面向 Agent 时代 | ![Stars](https://img.shields.io/github/stars/kwalus/Canopy?style=flat-square&logo=github) |
 
 ---
 
 
 ## 📄 办公文档
 
-| 名称 | 作者/组织 | Stars/下载 | 说明 | 链接 |
-|------|-----------|------------|------|------|
-| **word-docx (ClawHub)** | ivangdavila | 290 下载 | Word DOCX 文件操作 — 创建/编辑/样式/修订/表格 | [ClawHub](https://clawhub.ai/ivangdavila/word-docx) |
-| **powerpoint-pptx (ClawHub)** | ivangdavila | 163 下载 | PowerPoint PPTX 操作 — 布局/模板/图表/视觉 QA | [ClawHub](https://clawhub.ai/ivangdavila/powerpoint-pptx) |
-| **Skywork-Skills** | SkyworkAI (昆仑万维) | 44 | 6 个 AI 办公技能 — PPT/文档/Excel/设计/搜索/音乐 | [GitHub](https://github.com/SkyworkAI/Skywork-Skills) |
-| **PPTAgent** | icip-cas | 3.7K | Agent 框架 — 自动生成 PowerPoint | [GitHub](https://github.com/icip-cas/PPTAgent) |
-| **obsidian (ClawHub)** | steipete | 1.9K 下载 | Obsidian 笔记集成 — Markdown 笔记自动化 | [ClawHub](https://clawhub.ai/steipete/obsidian) |
-| **obsidian-skills** | kepano | 15.6K | Obsidian 官方 Agent 技能 | [GitHub](https://github.com/kepano/obsidian-skills) |
-| **apple-notes (ClawHub)** | steipete | 1.1K 下载 | macOS Apple Notes 管理 | [ClawHub](https://clawhub.ai/steipete/apple-notes) |
-| **todoist (ClawHub)** | mjrussell | 173 下载 | Todoist 任务与项目管理 | [ClawHub](https://clawhub.ai/mjrussell/todoist) |
-| **MeiGen-AI-Design-MCP** | jau123 | 490 | 把 Claude Code/OpenClaw 变成本地 Lovart 设计工具 | [GitHub](https://github.com/jau123/MeiGen-AI-Design-MCP) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**word-docx (ClawHub)**](https://clawhub.ai/ivangdavila/word-docx) | Word DOCX 文件操作 — 创建/编辑/样式/修订/表格 | ![Downloads](https://img.shields.io/badge/downloads-290-blue?style=flat-square) |
+| [**powerpoint-pptx (ClawHub)**](https://clawhub.ai/ivangdavila/powerpoint-pptx) | PowerPoint PPTX 操作 — 布局/模板/图表/视觉 QA | ![Downloads](https://img.shields.io/badge/downloads-163-blue?style=flat-square) |
+| [**Skywork-Skills**](https://github.com/SkyworkAI/Skywork-Skills) | 6 个 AI 办公技能 — PPT/文档/Excel/设计/搜索/音乐 | ![Stars](https://img.shields.io/github/stars/SkyworkAI/Skywork-Skills?style=flat-square&logo=github) |
+| [**PPTAgent**](https://github.com/icip-cas/PPTAgent) | Agent 框架 — 自动生成 PowerPoint | ![Stars](https://img.shields.io/github/stars/icip-cas/PPTAgent?style=flat-square&logo=github) |
+| [**obsidian (ClawHub)**](https://clawhub.ai/steipete/obsidian) | Obsidian 笔记集成 — Markdown 笔记自动化 | ![Downloads](https://img.shields.io/badge/downloads-1.9K-blue?style=flat-square) |
+| [**obsidian-skills**](https://github.com/kepano/obsidian-skills) | Obsidian 官方 Agent 技能 | ![Stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat-square&logo=github) |
+| [**apple-notes (ClawHub)**](https://clawhub.ai/steipete/apple-notes) | macOS Apple Notes 管理 | ![Downloads](https://img.shields.io/badge/downloads-1.1K-blue?style=flat-square) |
+| [**todoist (ClawHub)**](https://clawhub.ai/mjrussell/todoist) | Todoist 任务与项目管理 | ![Downloads](https://img.shields.io/badge/downloads-173-blue?style=flat-square) |
+| [**MeiGen-AI-Design-MCP**](https://github.com/jau123/MeiGen-AI-Design-MCP) | 把 Claude Code/OpenClaw 变成本地 Lovart 设计工具 | ![Stars](https://img.shields.io/github/stars/jau123/MeiGen-AI-Design-MCP?style=flat-square&logo=github) |
 
 ---
 
 
 ## 💻 编程开发
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **openclaw/openclaw** | OpenClaw 官方 | 329.0K | OpenClaw 核心仓库 — 你的私人 AI 助手 | [GitHub](https://github.com/openclaw/openclaw) |
-| **openclaw/clawhub** | OpenClaw 官方 | 6.6K | OpenClaw 技能目录 | [GitHub](https://github.com/openclaw/clawhub) |
-| **openclaw/skills** | OpenClaw 官方 | 3.2K | ClawHub 所有技能存档 | [GitHub](https://github.com/openclaw/skills) |
-| **openclaw/lobster** | OpenClaw 官方 | 908 | OpenClaw 原生工作流 Shell / 宏引擎 | [GitHub](https://github.com/openclaw/lobster) |
-| **openclaw/openclaw-ansible** | OpenClaw 官方 | 519 | 自动化部署 — Tailscale/UFW/Docker 加固安装 | [GitHub](https://github.com/openclaw/openclaw-ansible) |
-| **github (ClawHub)** | steipete | 3.3K 下载 | GitHub 集成 — Issue/PR/CI 管理 | [ClawHub](https://clawhub.ai/steipete/github) |
-| **cc-switch** | farion1231 | 31.5K | 跨平台桌面 All-in-One 助手 — Claude Code/Codex/OpenClaw | [GitHub](https://github.com/farion1231/cc-switch) |
-| **ClawX** | ValueCell-ai | 5.3K | OpenClaw 桌面 GUI | [GitHub](https://github.com/ValueCell-ai/ClawX) |
-| **claude-skills** | alirezarezvani | 6.2K | 192+ Claude Code 技能/Agent 插件 (OpenClaw 兼容) | [GitHub](https://github.com/alirezarezvani/claude-skills) |
-| **context-mode** | mksglu | 5.6K | 上下文虚拟化层 (MCP 相关) | [GitHub](https://github.com/mksglu/context-mode) |
-| **planning-with-files** | OthmanAdi | 16.7K | Manus 风格持久化 Markdown 规划技能 | [GitHub](https://github.com/OthmanAdi/planning-with-files) |
-| **openclaw-claude-code-skill** | Enderfga | 52 | Claude Code MCP 能力集成到 OpenClaw | [GitHub](https://github.com/Enderfga/openclaw-claude-code-skill) |
-| **skillshare** | runkids | 962 | 跨 AI CLI 工具同步技能 — Codex/Claude Code/OpenClaw | [GitHub](https://github.com/runkids/skillshare) |
-| **codeg** | xintaofei | 381 | 企业级多 Agent 编码工作区 | [GitHub](https://github.com/xintaofei/codeg) |
-| **pinchbench/skill** | pinchbench | 705 | LLM 编码 Agent 基准测试 | [GitHub](https://github.com/pinchbench/skill) |
-| **tokscale** | junhoyeo | 1.3K | Token 用量追踪 CLI — OpenClaw 等 | [GitHub](https://github.com/junhoyeo/tokscale) |
-| **poco-claw** | poco-ai | 1.2K | OpenClaw 替代方案，带 Web UI | [GitHub](https://github.com/poco-ai/poco-claw) |
-| **devclaw** | laurentenhoor | 168 | 多项目开发/QA 流水线编排 | [GitHub](https://github.com/laurentenhoor/devclaw) |
-| **pydantic-deepagents** | vstorm-co | 518 | Python 深度 Agent 框架 (Pydantic-AI) | [GitHub](https://github.com/vstorm-co/pydantic-deepagents) |
-| **full-stack-ai-agent-template** | vstorm-co | 873 | 全栈 AI Agent 模板 | [GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openclaw/openclaw**](https://github.com/openclaw/openclaw) | OpenClaw 核心仓库 — 你的私人 AI 助手 | ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&logo=github) |
+| [**openclaw/clawhub**](https://github.com/openclaw/clawhub) | OpenClaw 技能目录 | ![Stars](https://img.shields.io/github/stars/openclaw/clawhub?style=flat-square&logo=github) |
+| [**openclaw/skills**](https://github.com/openclaw/skills) | ClawHub 所有技能存档 | ![Stars](https://img.shields.io/github/stars/openclaw/skills?style=flat-square&logo=github) |
+| [**openclaw/lobster**](https://github.com/openclaw/lobster) | OpenClaw 原生工作流 Shell / 宏引擎 | ![Stars](https://img.shields.io/github/stars/openclaw/lobster?style=flat-square&logo=github) |
+| [**openclaw/openclaw-ansible**](https://github.com/openclaw/openclaw-ansible) | 自动化部署 — Tailscale/UFW/Docker 加固安装 | ![Stars](https://img.shields.io/github/stars/openclaw/openclaw-ansible?style=flat-square&logo=github) |
+| [**github (ClawHub)**](https://clawhub.ai/steipete/github) | GitHub 集成 — Issue/PR/CI 管理 | ![Downloads](https://img.shields.io/badge/downloads-3.3K-blue?style=flat-square) |
+| [**cc-switch**](https://github.com/farion1231/cc-switch) | 跨平台桌面 All-in-One 助手 — Claude Code/Codex/OpenClaw | ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&logo=github) |
+| [**ClawX**](https://github.com/ValueCell-ai/ClawX) | OpenClaw 桌面 GUI | ![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square&logo=github) |
+| [**claude-skills**](https://github.com/alirezarezvani/claude-skills) | 192+ Claude Code 技能/Agent 插件 (OpenClaw 兼容) | ![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&logo=github) |
+| [**context-mode**](https://github.com/mksglu/context-mode) | 上下文虚拟化层 (MCP 相关) | ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&logo=github) |
+| [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) | Manus 风格持久化 Markdown 规划技能 | ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&logo=github) |
+| [**openclaw-claude-code-skill**](https://github.com/Enderfga/openclaw-claude-code-skill) | Claude Code MCP 能力集成到 OpenClaw | ![Stars](https://img.shields.io/github/stars/Enderfga/openclaw-claude-code-skill?style=flat-square&logo=github) |
+| [**skillshare**](https://github.com/runkids/skillshare) | 跨 AI CLI 工具同步技能 — Codex/Claude Code/OpenClaw | ![Stars](https://img.shields.io/github/stars/runkids/skillshare?style=flat-square&logo=github) |
+| [**codeg**](https://github.com/xintaofei/codeg) | 企业级多 Agent 编码工作区 | ![Stars](https://img.shields.io/github/stars/xintaofei/codeg?style=flat-square&logo=github) |
+| [**pinchbench/skill**](https://github.com/pinchbench/skill) | LLM 编码 Agent 基准测试 | ![Stars](https://img.shields.io/github/stars/pinchbench/skill?style=flat-square&logo=github) |
+| [**tokscale**](https://github.com/junhoyeo/tokscale) | Token 用量追踪 CLI — OpenClaw 等 | ![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square&logo=github) |
+| [**poco-claw**](https://github.com/poco-ai/poco-claw) | OpenClaw 替代方案，带 Web UI | ![Stars](https://img.shields.io/github/stars/poco-ai/poco-claw?style=flat-square&logo=github) |
+| [**devclaw**](https://github.com/laurentenhoor/devclaw) | 多项目开发/QA 流水线编排 | ![Stars](https://img.shields.io/github/stars/laurentenhoor/devclaw?style=flat-square&logo=github) |
+| [**pydantic-deepagents**](https://github.com/vstorm-co/pydantic-deepagents) | Python 深度 Agent 框架 (Pydantic-AI) | ![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=flat-square&logo=github) |
+| [**full-stack-ai-agent-template**](https://github.com/vstorm-co/full-stack-ai-agent-template) | 全栈 AI Agent 模板 | ![Stars](https://img.shields.io/github/stars/vstorm-co/full-stack-ai-agent-template?style=flat-square&logo=github) |
 
 ---
 
 
 ## 🤖 AI 与记忆
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **memU** | NevaMind-AI | 13.1K | 面向 24/7 主动 Agent 的记忆系统 | [GitHub](https://github.com/NevaMind-AI/memU) |
-| **OpenViking** | volcengine (火山引擎) | 17.6K | 开源 AI Agent 上下文数据库 | [GitHub](https://github.com/volcengine/OpenViking) |
-| **MemOS** | MemTensor | 7.6K | AI 记忆操作系统 | [GitHub](https://github.com/MemTensor/MemOS) |
-| **MemOS-Cloud-OpenClaw-Plugin** | MemTensor | 314 | MemOS Cloud 官方 OpenClaw 插件 | [GitHub](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) |
-| **EverMemOS** | EverMind-AI | 3.0K | OpenClaw Agent 记忆操作系统 | [GitHub](https://github.com/EverMind-AI/EverMemOS) |
-| **memory-lancedb-pro** | CortexReach | 3.3K | 增强 LanceDB 记忆插件 | [GitHub](https://github.com/CortexReach/memory-lancedb-pro) |
-| **memory-lancedb-pro-skill** | CortexReach | 153 | memory-lancedb-pro 的 Claude Code 技能 | [GitHub](https://github.com/CortexReach/memory-lancedb-pro-skill) |
-| **deeplake** | activeloopai | 9.0K | 统一上下文引擎 | [GitHub](https://github.com/activeloopai/deeplake) |
-| **openclaw-supermemory** | supermemoryai | 620 | OpenClaw 长期记忆与回忆 | [GitHub](https://github.com/supermemoryai/openclaw-supermemory) |
-| **openclaw-vertexai-memorybank** | Shubhamsaboo | 121 | Vertex AI 记忆银行插件 | [GitHub](https://github.com/Shubhamsaboo/openclaw-vertexai-memorybank) |
-| **memsearch** | zilliztech | 959 | Markdown 优先的记忆系统 | [GitHub](https://github.com/zilliztech/memsearch) |
-| **powermem** | oceanbase | 557 | AI 长期记忆 — 支持 OpenClaw 记忆插件 | [GitHub](https://github.com/oceanbase/powermem) |
-| **nocturne_memory** | Dataojitori | 793 | 轻量长期记忆服务器 | [GitHub](https://github.com/Dataojitori/nocturne_memory) |
-| **MoltBrain** | nhevers | 369 | OpenClaw 长期记忆层 | [GitHub](https://github.com/nhevers/MoltBrain) |
-| **cortex-mem** | sopaco | 210 | OpenClaw 和 Embodied-AI 的认知基础 | [GitHub](https://github.com/sopaco/cortex-mem) |
-| **gigabrain** | legendaryvibecoder | 171 | 本地优先记忆层 — OpenClaw/Codex | [GitHub](https://github.com/legendaryvibecoder/gigabrain) |
-| **memov** | memovai | 167 | Git 风格记忆 — OpenClaw 和编码 Agent | [GitHub](https://github.com/memovai/memov) |
-| **Lucid** | get-Lucid | 302 | 将 Agent 锚定在已验证知识上的智能层 | [GitHub](https://github.com/get-Lucid/Lucid) |
-| **capability-evolver (ClawHub)** | autogame-17 | 448 下载 | AI 自我进化引擎 | [ClawHub](https://clawhub.ai/autogame-17/capability-evolver) |
-| **self-improving-agent (ClawHub)** | pskoett | - | 自我改进代理 | [ClawHub](https://clawhub.ai/pskoett/self-improving-agent) |
-| **hermes-agent** | NousResearch | 9.9K | 与你一起成长的 Agent | [GitHub](https://github.com/NousResearch/hermes-agent) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**memU**](https://github.com/NevaMind-AI/memU) | 面向 24/7 主动 Agent 的记忆系统 | ![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square&logo=github) |
+| [**OpenViking**](https://github.com/volcengine/OpenViking) | 开源 AI Agent 上下文数据库 | ![Stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square&logo=github) |
+| [**MemOS**](https://github.com/MemTensor/MemOS) | AI 记忆操作系统 | ![Stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&logo=github) |
+| [**MemOS-Cloud-OpenClaw-Plugin**](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) | MemOS Cloud 官方 OpenClaw 插件 | ![Stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=flat-square&logo=github) |
+| [**EverMemOS**](https://github.com/EverMind-AI/EverMemOS) | OpenClaw Agent 记忆操作系统 | ![Stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=flat-square&logo=github) |
+| [**memory-lancedb-pro**](https://github.com/CortexReach/memory-lancedb-pro) | 增强 LanceDB 记忆插件 | ![Stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=flat-square&logo=github) |
+| [**memory-lancedb-pro-skill**](https://github.com/CortexReach/memory-lancedb-pro-skill) | memory-lancedb-pro 的 Claude Code 技能 | ![Stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro-skill?style=flat-square&logo=github) |
+| [**deeplake**](https://github.com/activeloopai/deeplake) | 统一上下文引擎 | ![Stars](https://img.shields.io/github/stars/activeloopai/deeplake?style=flat-square&logo=github) |
+| [**openclaw-supermemory**](https://github.com/supermemoryai/openclaw-supermemory) | OpenClaw 长期记忆与回忆 | ![Stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=flat-square&logo=github) |
+| [**openclaw-vertexai-memorybank**](https://github.com/Shubhamsaboo/openclaw-vertexai-memorybank) | Vertex AI 记忆银行插件 | ![Stars](https://img.shields.io/github/stars/Shubhamsaboo/openclaw-vertexai-memorybank?style=flat-square&logo=github) |
+| [**memsearch**](https://github.com/zilliztech/memsearch) | Markdown 优先的记忆系统 | ![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&logo=github) |
+| [**powermem**](https://github.com/oceanbase/powermem) | AI 长期记忆 — 支持 OpenClaw 记忆插件 | ![Stars](https://img.shields.io/github/stars/oceanbase/powermem?style=flat-square&logo=github) |
+| [**nocturne_memory**](https://github.com/Dataojitori/nocturne_memory) | 轻量长期记忆服务器 | ![Stars](https://img.shields.io/github/stars/Dataojitori/nocturne_memory?style=flat-square&logo=github) |
+| [**MoltBrain**](https://github.com/nhevers/MoltBrain) | OpenClaw 长期记忆层 | ![Stars](https://img.shields.io/github/stars/nhevers/MoltBrain?style=flat-square&logo=github) |
+| [**cortex-mem**](https://github.com/sopaco/cortex-mem) | OpenClaw 和 Embodied-AI 的认知基础 | ![Stars](https://img.shields.io/github/stars/sopaco/cortex-mem?style=flat-square&logo=github) |
+| [**gigabrain**](https://github.com/legendaryvibecoder/gigabrain) | 本地优先记忆层 — OpenClaw/Codex | ![Stars](https://img.shields.io/github/stars/legendaryvibecoder/gigabrain?style=flat-square&logo=github) |
+| [**memov**](https://github.com/memovai/memov) | Git 风格记忆 — OpenClaw 和编码 Agent | ![Stars](https://img.shields.io/github/stars/memovai/memov?style=flat-square&logo=github) |
+| [**Lucid**](https://github.com/get-Lucid/Lucid) | 将 Agent 锚定在已验证知识上的智能层 | ![Stars](https://img.shields.io/github/stars/get-Lucid/Lucid?style=flat-square&logo=github) |
+| [**capability-evolver (ClawHub)**](https://clawhub.ai/autogame-17/capability-evolver) | AI 自我进化引擎 | ![Downloads](https://img.shields.io/badge/downloads-448-blue?style=flat-square) |
+| [**self-improving-agent (ClawHub)**](https://clawhub.ai/pskoett/self-improving-agent) | 自我改进代理 | - |
+| [**hermes-agent**](https://github.com/NousResearch/hermes-agent) | 与你一起成长的 Agent | ![Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&logo=github) |
 
 ---
 
 
 ## 🔐 安全
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **AI-Infra-Guard** | Tencent | 3.3K | 腾讯 AI 红队平台 — 含 OpenClaw 安全扫描 | [GitHub](https://github.com/Tencent/AI-Infra-Guard) |
-| **clawsec** | prompt-security | 816 | OpenClaw Agent 安全技能套件 | [GitHub](https://github.com/prompt-security/clawsec) |
-| **ClawVault** | tophant-ai | 787 | OpenClaw 安全保险箱 | [GitHub](https://github.com/tophant-ai/ClawVault) |
-| **secureclaw** | adversa-ai | 288 | OWASP 对齐的 OpenClaw 安全插件 | [GitHub](https://github.com/adversa-ai/secureclaw) |
-| **secure-openclaw** | ComposioHQ | 1.4K | 安全的 24/7 AI 助手 — WhatsApp/Telegram 等 | [GitHub](https://github.com/ComposioHQ/secure-openclaw) |
-| **moltis** | moltis-org | 2.3K | Rust 原生 OpenClaw — 沙箱化、安全、可审计 | [GitHub](https://github.com/moltis-org/moltis) |
-| **onecli** | onecli | 1.0K | AI Agent 开源凭证库 | [GitHub](https://github.com/onecli/onecli) |
-| **JoySafeter** | jd-opensource (京东) | 204 | 京东企业 AI Agent 安全平台 | [GitHub](https://github.com/jd-opensource/JoySafeter) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**AI-Infra-Guard**](https://github.com/Tencent/AI-Infra-Guard) | 腾讯 AI 红队平台 — 含 OpenClaw 安全扫描 | ![Stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=flat-square&logo=github) |
+| [**clawsec**](https://github.com/prompt-security/clawsec) | OpenClaw Agent 安全技能套件 | ![Stars](https://img.shields.io/github/stars/prompt-security/clawsec?style=flat-square&logo=github) |
+| [**ClawVault**](https://github.com/tophant-ai/ClawVault) | OpenClaw 安全保险箱 | ![Stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=flat-square&logo=github) |
+| [**secureclaw**](https://github.com/adversa-ai/secureclaw) | OWASP 对齐的 OpenClaw 安全插件 | ![Stars](https://img.shields.io/github/stars/adversa-ai/secureclaw?style=flat-square&logo=github) |
+| [**secure-openclaw**](https://github.com/ComposioHQ/secure-openclaw) | 安全的 24/7 AI 助手 — WhatsApp/Telegram 等 | ![Stars](https://img.shields.io/github/stars/ComposioHQ/secure-openclaw?style=flat-square&logo=github) |
+| [**moltis**](https://github.com/moltis-org/moltis) | Rust 原生 OpenClaw — 沙箱化、安全、可审计 | ![Stars](https://img.shields.io/github/stars/moltis-org/moltis?style=flat-square&logo=github) |
+| [**onecli**](https://github.com/onecli/onecli) | AI Agent 开源凭证库 | ![Stars](https://img.shields.io/github/stars/onecli/onecli?style=flat-square&logo=github) |
+| [**JoySafeter**](https://github.com/jd-opensource/JoySafeter) | 京东企业 AI Agent 安全平台 | ![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&logo=github) |
 
 ---
 
 
 ## 🌍 浏览器与自动化
 
-| 名称 | 作者/组织 | Stars/下载 | 说明 | 链接 |
-|------|-----------|------------|------|------|
-| **agent-browser (ClawHub)** | TheSethRose | 3.1K 下载 | Rust 无头浏览器自动化 — Node.js 回退 | [ClawHub](https://clawhub.ai/TheSethRose/agent-browser) |
-| **unbrowse** | unbrowse-ai | 586 | API 原生浏览器技能 — 任意 Agent | [GitHub](https://github.com/unbrowse-ai/unbrowse) |
-| **Overture** | SixHq | 599 | Web 界面 MCP 服务器 — Agent 执行计划映射 | [GitHub](https://github.com/SixHq/Overture) |
-| **phoneclaw** | rohanarun | 414 | OpenClaw 自动化 Android 手机 | [GitHub](https://github.com/rohanarun/phoneclaw) |
-| **ZeroClaw-Android** | Natfii | 258 | 在 Android 手机上 24/7 运行 AI Agent | [GitHub](https://github.com/Natfii/ZeroClaw-Android) |
-| **crabwalk** | crabwise-ai | 868 | OpenClaw Agent 实时伴侣监视器 | [GitHub](https://github.com/crabwise-ai/crabwalk) |
-| **auto-commenter** | rokpiy | 544 | 自动化社区评论技能 | [GitHub](https://github.com/rokpiy/auto-commenter) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**agent-browser (ClawHub)**](https://clawhub.ai/TheSethRose/agent-browser) | Rust 无头浏览器自动化 — Node.js 回退 | ![Downloads](https://img.shields.io/badge/downloads-3.1K-blue?style=flat-square) |
+| [**unbrowse**](https://github.com/unbrowse-ai/unbrowse) | API 原生浏览器技能 — 任意 Agent | ![Stars](https://img.shields.io/github/stars/unbrowse-ai/unbrowse?style=flat-square&logo=github) |
+| [**Overture**](https://github.com/SixHq/Overture) | Web 界面 MCP 服务器 — Agent 执行计划映射 | ![Stars](https://img.shields.io/github/stars/SixHq/Overture?style=flat-square&logo=github) |
+| [**phoneclaw**](https://github.com/rohanarun/phoneclaw) | OpenClaw 自动化 Android 手机 | ![Stars](https://img.shields.io/github/stars/rohanarun/phoneclaw?style=flat-square&logo=github) |
+| [**ZeroClaw-Android**](https://github.com/Natfii/ZeroClaw-Android) | 在 Android 手机上 24/7 运行 AI Agent | ![Stars](https://img.shields.io/github/stars/Natfii/ZeroClaw-Android?style=flat-square&logo=github) |
+| [**crabwalk**](https://github.com/crabwise-ai/crabwalk) | OpenClaw Agent 实时伴侣监视器 | ![Stars](https://img.shields.io/github/stars/crabwise-ai/crabwalk?style=flat-square&logo=github) |
+| [**auto-commenter**](https://github.com/rokpiy/auto-commenter) | 自动化社区评论技能 | ![Stars](https://img.shields.io/github/stars/rokpiy/auto-commenter?style=flat-square&logo=github) |
 
 ---
 
@@ -343,97 +343,97 @@
 
 ### 核心生态
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **awesome-openclaw-skills** | VoltAgent | 40.6K | 英文版精选 5,400+ Skills | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) |
-| **awesome-openclaw-usecases** | hesamsheikh | 26.7K | OpenClaw 用例社区合集 | [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases) |
-| **awesome-openclaw-skills-zh** | clawdbot-ai | 3.5K | OpenClaw 中文技能列表 (本项目) | [GitHub](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) |
-| **awesome-openclaw** | SamurAIGPT | 813 | OpenClaw 资源/工具/技能汇总 | [GitHub](https://github.com/SamurAIGPT/awesome-openclaw) |
-| **Awesome-OpenClaw** | EthanYolo01 | 128 | 精选 OpenClaw 资源列表 | [GitHub](https://github.com/EthanYolo01/Awesome-OpenClaw) |
-| **openclaw-master-skills** | LeoYeAI | 2.0K | 339+ 精选技能 (MyClaw.ai) | [GitHub](https://github.com/LeoYeAI/openclaw-master-skills) |
-| **awesome-agent-skills** | libukai | 3.4K | Agent 技能终极指南 | [GitHub](https://github.com/libukai/awesome-agent-skills) |
-| **awesome-agent-skills** | skillmatic-ai | 435 | Agent 技能权威资源 | [GitHub](https://github.com/skillmatic-ai/awesome-agent-skills) |
-| **sundial awesome-openclaw-skills** | sundial-org | 491 | 顶级 OpenClaw 技能合集 | [GitHub](https://github.com/sundial-org/awesome-openclaw-skills) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) | 英文版精选 5,400+ Skills | ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square&logo=github) |
+| [**awesome-openclaw-usecases**](https://github.com/hesamsheikh/awesome-openclaw-usecases) | OpenClaw 用例社区合集 | ![Stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=flat-square&logo=github) |
+| [**awesome-openclaw-skills-zh**](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) | OpenClaw 中文技能列表 (本项目) | ![Stars](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square&logo=github) |
+| [**awesome-openclaw**](https://github.com/SamurAIGPT/awesome-openclaw) | OpenClaw 资源/工具/技能汇总 | ![Stars](https://img.shields.io/github/stars/SamurAIGPT/awesome-openclaw?style=flat-square&logo=github) |
+| [**Awesome-OpenClaw**](https://github.com/EthanYolo01/Awesome-OpenClaw) | 精选 OpenClaw 资源列表 | ![Stars](https://img.shields.io/github/stars/EthanYolo01/Awesome-OpenClaw?style=flat-square&logo=github) |
+| [**openclaw-master-skills**](https://github.com/LeoYeAI/openclaw-master-skills) | 339+ 精选技能 (MyClaw.ai) | ![Stars](https://img.shields.io/github/stars/LeoYeAI/openclaw-master-skills?style=flat-square&logo=github) |
+| [**awesome-agent-skills**](https://github.com/libukai/awesome-agent-skills) | Agent 技能终极指南 | ![Stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=flat-square&logo=github) |
+| [**awesome-agent-skills**](https://github.com/skillmatic-ai/awesome-agent-skills) | Agent 技能权威资源 | ![Stars](https://img.shields.io/github/stars/skillmatic-ai/awesome-agent-skills?style=flat-square&logo=github) |
+| [**sundial awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 顶级 OpenClaw 技能合集 | ![Stars](https://img.shields.io/github/stars/sundial-org/awesome-openclaw-skills?style=flat-square&logo=github) |
 
 ### 部署与运维
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **1Panel** | 1Panel-dev | 34.5K | VPS 控制面板 — 一键部署 OpenClaw | [GitHub](https://github.com/1Panel-dev/1Panel) |
-| **AionUi** | iOfficeAI | 19.7K | 开源 24/7 Cowork App — 多 CLI Agent | [GitHub](https://github.com/iOfficeAI/AionUi) |
-| **OpenClawInstaller** | miaoxworld | 3.2K | ClawdBot 一键部署工具 | [GitHub](https://github.com/miaoxworld/OpenClawInstaller) |
-| **openclaw-backup** | LeoYeAI | 897 | 一键备份/恢复 OpenClaw 实例 | [GitHub](https://github.com/LeoYeAI/openclaw-backup) |
-| **openclaw-mini** | voocel | 614 | OpenClaw 核心架构最小复现 | [GitHub](https://github.com/voocel/openclaw-mini) |
-| **mimiclaw** | memovai | 4.7K | 在 $5 芯片上运行 OpenClaw，无需操作系统 | [GitHub](https://github.com/memovai/mimiclaw) |
-| **rt-claw** | zevorn | 625 | 让 AI 助手再次便宜！ | [GitHub](https://github.com/zevorn/rt-claw) |
-| **n8n-claw** | freddy-schuetz | 284 | n8n 中的 OpenClaw 风格自主 AI Agent | [GitHub](https://github.com/freddy-schuetz/n8n-claw) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**1Panel**](https://github.com/1Panel-dev/1Panel) | VPS 控制面板 — 一键部署 OpenClaw | ![Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square&logo=github) |
+| [**AionUi**](https://github.com/iOfficeAI/AionUi) | 开源 24/7 Cowork App — 多 CLI Agent | ![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github) |
+| [**OpenClawInstaller**](https://github.com/miaoxworld/OpenClawInstaller) | ClawdBot 一键部署工具 | ![Stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=flat-square&logo=github) |
+| [**openclaw-backup**](https://github.com/LeoYeAI/openclaw-backup) | 一键备份/恢复 OpenClaw 实例 | ![Stars](https://img.shields.io/github/stars/LeoYeAI/openclaw-backup?style=flat-square&logo=github) |
+| [**openclaw-mini**](https://github.com/voocel/openclaw-mini) | OpenClaw 核心架构最小复现 | ![Stars](https://img.shields.io/github/stars/voocel/openclaw-mini?style=flat-square&logo=github) |
+| [**mimiclaw**](https://github.com/memovai/mimiclaw) | 在 $5 芯片上运行 OpenClaw，无需操作系统 | ![Stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=flat-square&logo=github) |
+| [**rt-claw**](https://github.com/zevorn/rt-claw) | 让 AI 助手再次便宜！ | ![Stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=flat-square&logo=github) |
+| [**n8n-claw**](https://github.com/freddy-schuetz/n8n-claw) | n8n 中的 OpenClaw 风格自主 AI Agent | ![Stars](https://img.shields.io/github/stars/freddy-schuetz/n8n-claw?style=flat-square&logo=github) |
 
 ### Agent 框架与编排
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **openfang** | RightNow-AI | 15.2K | 开源 Agent 操作系统 | [GitHub](https://github.com/RightNow-AI/openfang) |
-| **mcp-use** | mcp-use | 9.5K | 全栈 MCP 框架 | [GitHub](https://github.com/mcp-use/mcp-use) |
-| **refly** | refly-ai | 7.0K | 开源 Agent 技能构建器 | [GitHub](https://github.com/refly-ai/refly) |
-| **mission-control** | builderz-labs | 2.9K | AI Agent 编排仪表盘 | [GitHub](https://github.com/builderz-labs/mission-control) |
-| **manifest** | mnfst | 4.0K | 智能 LLM 路由 — 最高降本 70% | [GitHub](https://github.com/mnfst/manifest) |
-| **semantic-router** | vllm-project | 3.5K | 系统级混合模型智能路由 | [GitHub](https://github.com/vllm-project/semantic-router) |
-| **lossless-claw** | Martian-Engineering | 3.1K | 无损上下文管理插件 | [GitHub](https://github.com/Martian-Engineering/lossless-claw) |
-| **openakita** | openakita | 1.4K | 开源 AI 助手框架 — 技能架构 | [GitHub](https://github.com/openakita/openakita) |
-| **NagaAgent** | RTGS2017 | 1.5K | 简洁而强大的 Agent 框架 | [GitHub](https://github.com/RTGS2017/NagaAgent) |
-| **ai-maestro** | 23blocks-OS | 550 | AI Agent 编排器 — 技能系统 | [GitHub](https://github.com/23blocks-OS/ai-maestro) |
-| **model-hierarchy-skill** | zscole | 333 | 成本优化的模型路由技能 | [GitHub](https://github.com/zscole/model-hierarchy-skill) |
-| **pinion-os** | chu2bard | 357 | Client SDK、Claude 插件和技能框架 | [GitHub](https://github.com/chu2bard/pinion-os) |
-| **room** | quoroom-ai | 646 | 开源群体智能引擎 | [GitHub](https://github.com/quoroom-ai/room) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**openfang**](https://github.com/RightNow-AI/openfang) | 开源 Agent 操作系统 | ![Stars](https://img.shields.io/github/stars/RightNow-AI/openfang?style=flat-square&logo=github) |
+| [**mcp-use**](https://github.com/mcp-use/mcp-use) | 全栈 MCP 框架 | ![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&logo=github) |
+| [**refly**](https://github.com/refly-ai/refly) | 开源 Agent 技能构建器 | ![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square&logo=github) |
+| [**mission-control**](https://github.com/builderz-labs/mission-control) | AI Agent 编排仪表盘 | ![Stars](https://img.shields.io/github/stars/builderz-labs/mission-control?style=flat-square&logo=github) |
+| [**manifest**](https://github.com/mnfst/manifest) | 智能 LLM 路由 — 最高降本 70% | ![Stars](https://img.shields.io/github/stars/mnfst/manifest?style=flat-square&logo=github) |
+| [**semantic-router**](https://github.com/vllm-project/semantic-router) | 系统级混合模型智能路由 | ![Stars](https://img.shields.io/github/stars/vllm-project/semantic-router?style=flat-square&logo=github) |
+| [**lossless-claw**](https://github.com/Martian-Engineering/lossless-claw) | 无损上下文管理插件 | ![Stars](https://img.shields.io/github/stars/Martian-Engineering/lossless-claw?style=flat-square&logo=github) |
+| [**openakita**](https://github.com/openakita/openakita) | 开源 AI 助手框架 — 技能架构 | ![Stars](https://img.shields.io/github/stars/openakita/openakita?style=flat-square&logo=github) |
+| [**NagaAgent**](https://github.com/RTGS2017/NagaAgent) | 简洁而强大的 Agent 框架 | ![Stars](https://img.shields.io/github/stars/RTGS2017/NagaAgent?style=flat-square&logo=github) |
+| [**ai-maestro**](https://github.com/23blocks-OS/ai-maestro) | AI Agent 编排器 — 技能系统 | ![Stars](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square&logo=github) |
+| [**model-hierarchy-skill**](https://github.com/zscole/model-hierarchy-skill) | 成本优化的模型路由技能 | ![Stars](https://img.shields.io/github/stars/zscole/model-hierarchy-skill?style=flat-square&logo=github) |
+| [**pinion-os**](https://github.com/chu2bard/pinion-os) | Client SDK、Claude 插件和技能框架 | ![Stars](https://img.shields.io/github/stars/chu2bard/pinion-os?style=flat-square&logo=github) |
+| [**room**](https://github.com/quoroom-ai/room) | 开源群体智能引擎 | ![Stars](https://img.shields.io/github/stars/quoroom-ai/room?style=flat-square&logo=github) |
 
 ### 搜索与研究
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **summarize (ClawHub)** | steipete | 4.5K 下载 | 智能摘要 — 长文/网页/PDF/音频/YouTube | [ClawHub](https://clawhub.ai/steipete/summarize) |
-| **gog (ClawHub)** | steipete | 2.8K 下载 | Google 全家桶 — Gmail/Calendar/Drive/Sheets/Docs | [ClawHub](https://clawhub.ai/steipete/gog) |
-| **last30days-skill** | mvanhorn | 4.5K | 多源主题研究技能 | [GitHub](https://github.com/mvanhorn/last30days-skill) |
-| **openclaw-search-skills** | blessonism | 345 | OpenClaw 深度搜索技能 | [GitHub](https://github.com/blessonism/openclaw-search-skills) |
-| **ask-search** | ythx-101 | 327 | 自托管 Web 搜索技能 (SearxNG) | [GitHub](https://github.com/ythx-101/ask-search) |
-| **AI-Search-Hub** | minsight-ai-info | 332 | 聚合 AI 搜索中枢技能 | [GitHub](https://github.com/minsight-ai-info/AI-Search-Hub) |
-| **kindly-web-search-mcp-server** | Shelpuk-AI-Technology-Consulting | 240 | Web 搜索 MCP 服务器 | [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) |
-| **notebooklm-py** | teng-lin | 6.8K | NotebookLM Python API — 支持 OpenClaw | [GitHub](https://github.com/teng-lin/notebooklm-py) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**summarize (ClawHub)**](https://clawhub.ai/steipete/summarize) | 智能摘要 — 长文/网页/PDF/音频/YouTube | ![Downloads](https://img.shields.io/badge/downloads-4.5K-blue?style=flat-square) |
+| [**gog (ClawHub)**](https://clawhub.ai/steipete/gog) | Google 全家桶 — Gmail/Calendar/Drive/Sheets/Docs | ![Downloads](https://img.shields.io/badge/downloads-2.8K-blue?style=flat-square) |
+| [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) | 多源主题研究技能 | ![Stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square&logo=github) |
+| [**openclaw-search-skills**](https://github.com/blessonism/openclaw-search-skills) | OpenClaw 深度搜索技能 | ![Stars](https://img.shields.io/github/stars/blessonism/openclaw-search-skills?style=flat-square&logo=github) |
+| [**ask-search**](https://github.com/ythx-101/ask-search) | 自托管 Web 搜索技能 (SearxNG) | ![Stars](https://img.shields.io/github/stars/ythx-101/ask-search?style=flat-square&logo=github) |
+| [**AI-Search-Hub**](https://github.com/minsight-ai-info/AI-Search-Hub) | 聚合 AI 搜索中枢技能 | ![Stars](https://img.shields.io/github/stars/minsight-ai-info/AI-Search-Hub?style=flat-square&logo=github) |
+| [**kindly-web-search-mcp-server**](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) | Web 搜索 MCP 服务器 | ![Stars](https://img.shields.io/github/stars/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server?style=flat-square&logo=github) |
+| [**notebooklm-py**](https://github.com/teng-lin/notebooklm-py) | NotebookLM Python API — 支持 OpenClaw | ![Stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat-square&logo=github) |
 
 ### 多 Agent 协作
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **ClawTeam-OpenClaw** | win4r | 422 | 多 Agent Swarm 协调 | [GitHub](https://github.com/win4r/ClawTeam-OpenClaw) |
-| **openclaw-a2a-gateway** | win4r | 308 | A2A 协议 v0.3.0 OpenClaw 插件 | [GitHub](https://github.com/win4r/openclaw-a2a-gateway) |
-| **beacon-skill** | Scottcjn | 109 | Agent 间 Ping 技能 | [GitHub](https://github.com/Scottcjn/beacon-skill) |
-| **human-mcp** | mrgoonie | 275 | 为 AI Agent 带来人类能力 | [GitHub](https://github.com/mrgoonie/human-mcp) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**ClawTeam-OpenClaw**](https://github.com/win4r/ClawTeam-OpenClaw) | 多 Agent Swarm 协调 | ![Stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=flat-square&logo=github) |
+| [**openclaw-a2a-gateway**](https://github.com/win4r/openclaw-a2a-gateway) | A2A 协议 v0.3.0 OpenClaw 插件 | ![Stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=flat-square&logo=github) |
+| [**beacon-skill**](https://github.com/Scottcjn/beacon-skill) | Agent 间 Ping 技能 | ![Stars](https://img.shields.io/github/stars/Scottcjn/beacon-skill?style=flat-square&logo=github) |
+| [**human-mcp**](https://github.com/mrgoonie/human-mcp) | 为 AI Agent 带来人类能力 | ![Stars](https://img.shields.io/github/stars/mrgoonie/human-mcp?style=flat-square&logo=github) |
 
 ### 其他工具
 
-| 名称 | 作者/组织 | Stars | 说明 | 链接 |
-|------|-----------|-------|------|------|
-| **buildwithclaude** | davepoon | 2.6K | Claude Skills/Agents/Plugins/OpenClaw 中枢 | [GitHub](https://github.com/davepoon/buildwithclaude) |
-| **super-agent-party** | heshengtao | 1.9K | 一体化 AI 伴侣 (自托管 OpenClaw) | [GitHub](https://github.com/heshengtao/super-agent-party) |
-| **youclaw** | CodePhiliaX | 319 | AI 私人助手 — 记忆/技能/定时任务 | [GitHub](https://github.com/CodePhiliaX/youclaw) |
-| **ChatClaw** | zhimaAi | 171 | 5 分钟搭建类 OpenClaw 私人 AI Agent | [GitHub](https://github.com/zhimaAi/ChatClaw) |
-| **Auto-claude-code-research-in-sleep** | wanshuiyin | 3.0K | 睡觉时自动研究技能 | [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) |
-| **opik-openclaw** | comet-ml | 304 | 官方 Opik 插件 — Agent 追踪导出 | [GitHub](https://github.com/comet-ml/opik-openclaw) |
-| **yutu** | eat-pray-ai | 412 | AI YouTube 频道增长工具 | [GitHub](https://github.com/eat-pray-ai/yutu) |
-| **marketing-skills** | kostja94 | 225 | 160+ 营销技能开源库 | [GitHub](https://github.com/kostja94/marketing-skills) |
-| **nof1.ai** | 195440 | 620 | 自主 AI 交易 Agent | [GitHub](https://github.com/195440/nof1.ai) |
-| **CordysCRM** | 1Panel-dev | 2.0K | 开源 AI CRM — OpenClaw CRM 技能 | [GitHub](https://github.com/1Panel-dev/CordysCRM) |
-| **ScienceClaw** | beita6969 | 299 | 自我进化 AI 研究同事 — 285 个技能 | [GitHub](https://github.com/beita6969/ScienceClaw) |
-| **ClawBio** | ClawBio | 480 | 首个生物信息学 AI Agent 技能库 | [GitHub](https://github.com/ClawBio/ClawBio) |
-| **OpenClaw-Medical-Skills** | FreedomIntelligence | 1.5K | 最大开源医疗 AI 技能库 | [GitHub](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) |
-| **Felo Skills** | Felo-Inc | 108 | Felo 技能包 | [GitHub](https://github.com/Felo-Inc/felo-skills) |
-| **aelf-skills** | AElfProject | 136 | aelf 技能中枢 — OpenClaw/Codex/Cursor | [GitHub](https://github.com/AElfProject/aelf-skills) |
-| **registry-broker-skills** | hashgraph-online | 147 | 通用注册表 AI Agent 技能 (72,000+ agents) | [GitHub](https://github.com/hashgraph-online/registry-broker-skills) |
-| **nano-banana-pro-prompts-recommend-skill** | YouMind-OpenLab | 1.3K | Gemini 图片提示词推荐技能 | [GitHub](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) |
-| **jdrhyne/agent-skills** | jdrhyne | 216 | Clawdbot/Claude Code/Codex Agent 技能 | [GitHub](https://github.com/jdrhyne/agent-skills) |
-| **antigravity-claude-proxy** | badrisnarayanan | 3.2K | Claude Code 和 OpenClaw 的 Antigravity 代理 | [GitHub](https://github.com/badrisnarayanan/antigravity-claude-proxy) |
-| **hackers365/xiaozhi-esp32-server-golang** | hackers365 | 208 | 小智 ESP32 后端 (Go) — 支持 OpenClaw | [GitHub](https://github.com/hackers365/xiaozhi-esp32-server-golang) |
-| **clawbot** | xianyu110 | 868 | Clawdbot 完整配置指南 | [GitHub](https://github.com/xianyu110/clawbot) |
-| **danghuangshang** | wanikua | 2.0K | AI 配置教程 (从零到进阶) | [GitHub](https://github.com/wanikua/danghuangshang) |
+| 名称 | 说明 | Stars |
+|------|------|-------|
+| [**buildwithclaude**](https://github.com/davepoon/buildwithclaude) | Claude Skills/Agents/Plugins/OpenClaw 中枢 | ![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square&logo=github) |
+| [**super-agent-party**](https://github.com/heshengtao/super-agent-party) | 一体化 AI 伴侣 (自托管 OpenClaw) | ![Stars](https://img.shields.io/github/stars/heshengtao/super-agent-party?style=flat-square&logo=github) |
+| [**youclaw**](https://github.com/CodePhiliaX/youclaw) | AI 私人助手 — 记忆/技能/定时任务 | ![Stars](https://img.shields.io/github/stars/CodePhiliaX/youclaw?style=flat-square&logo=github) |
+| [**ChatClaw**](https://github.com/zhimaAi/ChatClaw) | 5 分钟搭建类 OpenClaw 私人 AI Agent | ![Stars](https://img.shields.io/github/stars/zhimaAi/ChatClaw?style=flat-square&logo=github) |
+| [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 睡觉时自动研究技能 | ![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&logo=github) |
+| [**opik-openclaw**](https://github.com/comet-ml/opik-openclaw) | 官方 Opik 插件 — Agent 追踪导出 | ![Stars](https://img.shields.io/github/stars/comet-ml/opik-openclaw?style=flat-square&logo=github) |
+| [**yutu**](https://github.com/eat-pray-ai/yutu) | AI YouTube 频道增长工具 | ![Stars](https://img.shields.io/github/stars/eat-pray-ai/yutu?style=flat-square&logo=github) |
+| [**marketing-skills**](https://github.com/kostja94/marketing-skills) | 160+ 营销技能开源库 | ![Stars](https://img.shields.io/github/stars/kostja94/marketing-skills?style=flat-square&logo=github) |
+| [**nof1.ai**](https://github.com/195440/nof1.ai) | 自主 AI 交易 Agent | ![Stars](https://img.shields.io/github/stars/195440/nof1.ai?style=flat-square&logo=github) |
+| [**CordysCRM**](https://github.com/1Panel-dev/CordysCRM) | 开源 AI CRM — OpenClaw CRM 技能 | ![Stars](https://img.shields.io/github/stars/1Panel-dev/CordysCRM?style=flat-square&logo=github) |
+| [**ScienceClaw**](https://github.com/beita6969/ScienceClaw) | 自我进化 AI 研究同事 — 285 个技能 | ![Stars](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat-square&logo=github) |
+| [**ClawBio**](https://github.com/ClawBio/ClawBio) | 首个生物信息学 AI Agent 技能库 | ![Stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square&logo=github) |
+| [**OpenClaw-Medical-Skills**](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 最大开源医疗 AI 技能库 | ![Stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square&logo=github) |
+| [**Felo Skills**](https://github.com/Felo-Inc/felo-skills) | Felo 技能包 | ![Stars](https://img.shields.io/github/stars/Felo-Inc/felo-skills?style=flat-square&logo=github) |
+| [**aelf-skills**](https://github.com/AElfProject/aelf-skills) | aelf 技能中枢 — OpenClaw/Codex/Cursor | ![Stars](https://img.shields.io/github/stars/AElfProject/aelf-skills?style=flat-square&logo=github) |
+| [**registry-broker-skills**](https://github.com/hashgraph-online/registry-broker-skills) | 通用注册表 AI Agent 技能 (72,000+ agents) | ![Stars](https://img.shields.io/github/stars/hashgraph-online/registry-broker-skills?style=flat-square&logo=github) |
+| [**nano-banana-pro-prompts-recommend-skill**](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) | Gemini 图片提示词推荐技能 | ![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&logo=github) |
+| [**jdrhyne/agent-skills**](https://github.com/jdrhyne/agent-skills) | Clawdbot/Claude Code/Codex Agent 技能 | ![Stars](https://img.shields.io/github/stars/jdrhyne/agent-skills?style=flat-square&logo=github) |
+| [**antigravity-claude-proxy**](https://github.com/badrisnarayanan/antigravity-claude-proxy) | Claude Code 和 OpenClaw 的 Antigravity 代理 | ![Stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=flat-square&logo=github) |
+| [**hackers365/xiaozhi-esp32-server-golang**](https://github.com/hackers365/xiaozhi-esp32-server-golang) | 小智 ESP32 后端 (Go) — 支持 OpenClaw | ![Stars](https://img.shields.io/github/stars/hackers365/xiaozhi-esp32-server-golang?style=flat-square&logo=github) |
+| [**clawbot**](https://github.com/xianyu110/clawbot) | Clawdbot 完整配置指南 | ![Stars](https://img.shields.io/github/stars/xianyu110/clawbot?style=flat-square&logo=github) |
+| [**danghuangshang**](https://github.com/wanikua/danghuangshang) | AI 配置教程 (从零到进阶) | ![Stars](https://img.shields.io/github/stars/wanikua/danghuangshang?style=flat-square&logo=github) |
 
 ---
 
