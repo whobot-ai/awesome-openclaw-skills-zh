@@ -214,6 +214,7 @@
 
 | 名称 | 说明 | Stars |
 |------|------|-------|
+| [**TweetClaw**](https://github.com/Xquik-dev/tweetclaw) | OpenClaw X/Twitter 插件 - 推文搜索、回复搜索、粉丝导出、用户查询、监控、Webhook、抽奖和需审批的发推/回复 | ![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square&logo=github) |
 | [**x-research-skill**](https://github.com/rohunvora/x-research-skill) | X/Twitter 研究技能 | ![Stars](https://img.shields.io/github/stars/rohunvora/x-research-skill?style=flat-square&logo=github) |
 | [**x-tweet-fetcher**](https://github.com/ythx-101/x-tweet-fetcher) | 无需登录抓取推文 | ![Stars](https://img.shields.io/github/stars/ythx-101/x-tweet-fetcher?style=flat-square&logo=github) |
 
